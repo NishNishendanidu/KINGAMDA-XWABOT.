@@ -1,9 +1,9 @@
 {
-    "name": "kingamda-x  whatsApp user bot",
-    "description": "UserBot made for nishen [shenbro]",
+    "name": "kingamda-x whatsApp user bot",
+    "description": "UserBot made for nishen",
     "logo": "https://i.ibb.co/r2tjBBv/KINGAMDA-X-LOGO.png",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/afnanplk/lastpink",
+    "repository": "https://github.com/NishNishendanidu/kingamda-Xwabot.git",
     "website":   "under maintenance",
     "success_url": "under maintenance",
     "stack": "container",
