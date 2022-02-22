@@ -136,7 +136,7 @@
 
         "Z_DEP_NAME": {
 
-            "description": "bot deployer name make it short  (for auto reply pinkt to identify)",
+            "description": "bot deployer name make it short  (for auto reply KINGAMDA-X to identify)",
 
             "required": false,
 
