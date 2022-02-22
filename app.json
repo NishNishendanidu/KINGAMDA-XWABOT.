@@ -20,7 +20,7 @@
 
         "KINGAMDA_SESSION": {
 
-            "description": "Qr.Js ile oluşturduğunuz özel session kodu. Type here yours Asena Session.",
+            "description": "Qr.Js ile oluşturduğunuz özel session kodu. Type here yours KINGAMDA-X Session.",
 
             "required": true
 
@@ -140,17 +140,17 @@
 
             "required": false,
 
-            "value": "plk"
+            "value": "KIN"
 
         },
 
         "Z_BOT_REPLY": {
 
-            "description": "enter the repply message you want when deployer name is typed by users  (for auto reply pinkt to identify)",
+            "description": "enter the repply message you want when deployer name is typed by users  (for auto reply KINGAMDA-X to identify)",
 
             "required": false,
 
-            "value": "i know him he is my creator"
+            "value": "I CREATED BY Nishen"
 
         },
 
@@ -200,7 +200,7 @@
 
             "required": false,
 
-            "value": "PUBLIC BOT"
+            "value": "KING AMDA-X"
 
         },
 
@@ -220,7 +220,7 @@
 
             "required": false,
 
-            "value": "•━━━━╼⤏PINKY BOT⤎╾━━━•"
+            "value": "•━━━━╼⤏KING AMDA-X⤎╾━━━•"
 
         },
 
