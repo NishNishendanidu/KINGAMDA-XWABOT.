@@ -126,7 +126,7 @@
 
         "Z_BOT_NAME": {
 
-            "description": "give a name you disire to give your bot (for auto reply pinkt to identify)",
+            "description": "give a name you disire to give your bot (for auto reply KINGAMDA-X to identify)",
 
             "required": false,
 
