@@ -100,7 +100,7 @@
 
             "required": false,
 
-            "value": "default"
+            "value": "NISHEN"
 
         },    
 
@@ -114,9 +114,9 @@
 
         },
 
-        "Z_PINKY_AI": {
+        "Z_KINGAMDA-X_AI": {
 
-            "description": "turn on chat back auto reply pinky (use true to on and fale to off)",
+            "description": "turn on chat back auto reply KINGAMDA-X(use true to on and fale to off)",
 
             "required": true,
 
