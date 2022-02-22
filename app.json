@@ -2,9 +2,9 @@
 
     "name": "KINGAMDA-X NISHEN MODER",
 
-    "description": "pinky bot - re-edited from asena. World’s first UserBot made for WhatsApp.",
+    "description": "KING AMDA- re-edited from . World’s first UserBot made for WhatsApp.",
 
-    "logo": "https://avatars.githubusercontent.com/u/83832372?v=4",
+    "logo": "",
 
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
 
@@ -18,7 +18,7 @@
 
     "env": {
 
-        "ASENA_SESSION": {
+        "KINGAMDA_SESSION": {
 
             "description": "Qr.Js ile oluşturduğunuz özel session kodu. Type here yours Asena Session.",
 
