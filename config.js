@@ -1,6 +1,6 @@
-/* Copyright (C) 2020 Yusuf Usta.
+/* Copyright (C) 2022 nishen 
 re edited by afnan-plk  
-PINKY V2 
+KKINGAMDA-XV2 
 */
 
 const { Sequelize } = require('sequelize');
@@ -68,7 +68,7 @@ module.exports = {
     DEBUG: DEBUG,
     COFFEEHOUSE_API_KEY: process.env.COFFEEHOUSE_API_KEY === undefined ? false : process.env.COFFEEHOUSE_API_KEY,
     WITAI_API: "TEYMELA6DMC4XB5YM3SPTTQWUUIBKURG",
-    SUPPORT: "905524317852-1612300121",
-    SUPPORT2: "905511384572-1617736751",
-    SUPPORT3: "905511384572-1621015274"
+    SUPPORT: "-",
+    SUPPORT2: "-",
+    SUPPORT3: "-"
 };
