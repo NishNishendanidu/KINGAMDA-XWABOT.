@@ -1,4 +1,4 @@
-FROM fusuf/whatsasena:latest
+FROM fusuf/kingamda-X:latest
 
 RUN git clone https://github.com/NishNishendanidu/kingamda-Xwabot.git/root/WhatsAsenaDuplicated
 WORKDIR /root/WhatsAsenaDuplicated/
