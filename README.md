@@ -24,13 +24,12 @@
 
 ᴋɪɴɢ ᴀᴍᴅᴀ-x ᴡʜᴀᴛsᴀᴘᴘ ᴜsᴇʀ ʙᴏᴛ
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236EFF31&vCenter=true&width=600&height=90&lines=%F0%9F%8E%84%F0%9D%96%90%F0%9D%96%8E%F0%9D%96%93%F0%9D%96%8C%F0%9D%96%86%F0%9D%96%92%F0%9D%96%89%F0%9D%96%86-%F0%9D%96%83+%F0%9D%96%9C%F0%9D%96%8D%F0%9D%96%86%F0%9D%96%99%F0%9D%96%98%F0%9D%95%AC%F0%9D%96%95%F0%9D%96%95+%F0%9D%96%9A%F0%9D%96%98%F0%9D%96%8A%F0%9D%96%97+%F0%9D%96%87%F0%9D%96%94%F0%9D%96%99;+kingamda-X+whatsApp+user+bot;THANKS+FOR+WATCHING........%E2%9A%A1)](https://git.io/typing-svg)
-
+ 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFEE4A&center=true&vCenter=true&height=60&lines=SCAN+THE+QR+CODE;%E0%B6%B8%E0%B7%99%E0%B6%AD%E0%B6%B1%E0%B7%92%E0%B6%B1%E0%B7%8A+QR+%E0%B6%9A%E0%B7%9D%E0%B6%A9%E0%B7%8A+%E0%B6%91%E0%B6%9A+%E0%B7%83%E0%B7%8A%E0%B6%9A%E0%B7%91%E0%B6%B1%E0%B7%8A+%E0%B6%9A%E0%B6%BB%E0%B6%B1%E0%B7%8A%E0%B6%B1)](https://git.io/typing-svg)
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@NishenDanidu1/king-AMDA-X#package.json)
 
-## Deploy [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F773F2&height=40&lines=DEPLOY+KINGAMDA-X+)](https://git.io/typing-svg)
+## Deploy [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F773F2&height=40&lines=DEPLOY+alpha-v4)](https://git.io/typing-svg)
 
 [![Deploy phone kingamda-X ](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/NishNishendanidu/botwhatsapp.git)
 
