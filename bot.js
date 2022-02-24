@@ -134,7 +134,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         });
 
         console.log(
-            chalk.green.bold('kingamda-x bot working perfectly ⚡')
+            chalk.green.bold('alpha-v4 bot working perfectly ⚡')
         );
     });
     
@@ -246,7 +246,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, 'KINGAMDA-X_⚡_[error] ' +
+                                await conn.sendMessage(conn.user.jid, 'alpha-v4_[error] ' +
                                     '\n\n*⚡' + error + '*\n'
                                     , MessageType.text);
                             }
